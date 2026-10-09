@@ -56,7 +56,7 @@ function renderApp() {
           ${renderModuleNav(modules, activeModuleId)}
         </nav>
         <div class="sidebar-footer">
-          <a class="sidebar-link-btn" href="https://github.com/aadarshjh/OS-Algorithm-Visualizer" target="_blank" rel="noopener noreferrer">
+          <a class="sidebar-link-btn" href="https://github.com/keshhav19/OS_Algo_Visualizer" target="_blank" rel="noopener noreferrer">
             <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1-2.5-2.5Z"/><path d="M6 6h10M6 10h10"/></svg> Documentation / GitHub
           </a>
         </div>

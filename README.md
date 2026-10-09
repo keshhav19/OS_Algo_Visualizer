@@ -3,7 +3,7 @@
 [![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/keshhav19/OS_Algo_Visualizer)
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![Tests](https://img.shields.io/badge/tests-68%20passed-success)
+![Tests](https://img.shields.io/badge/tests-81%20passed-success)
 ![No Dependencies](https://img.shields.io/badge/dependencies-0-blue)
 ![JavaScript](https://img.shields.io/badge/language-Vanilla_JS-yellow)
 
