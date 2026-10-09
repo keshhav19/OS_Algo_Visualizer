@@ -1,0 +1,17 @@
+{
+  "name": "oscope",
+  "version": "1.0.0",
+  "description": "OScope — Operating Systems Algorithm Visualizer: An interactive educational platform for visualizing and comparing Operating System algorithms.",
+  "type": "module",
+  "scripts": {
+    "start": "python3 -m http.server 4173",
+    "test": "node --test"
+  },
+  "keywords": [
+    "operating-system",
+    "cpu-scheduling",
+    "simulator"
+  ],
+  "author": "",
+  "license": "MIT"
+}
